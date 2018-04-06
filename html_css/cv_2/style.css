@@ -1,0 +1,15 @@
+h1, .auto{
+	text-align: center;
+}
+h2{
+	color: red;
+}
+.profil_pic{
+	float: right;
+}
+.dessous{
+    clear: both;
+}
+body{
+	background: url(pics/fond.jpg);
+}
